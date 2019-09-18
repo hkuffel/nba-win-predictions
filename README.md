@@ -1,2 +1,4 @@
 # nba-win-predictions
-Attempting to predict NBA win percentages using player data
+Work-in-progress attempting to predict NBA win percentages using player data.
+
+Initial data for this project has been scraped from Basketball-Reference using BeautifulSoup.
